@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blocks1245
-- 👀 I’m interested in space and maths
-- 🌱 I’m currently learning Java and android app development
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in space, maths and ofcourse programming
+- 🌱 I’m currently learning Java and android development
+- 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me: not
 
 <!---
